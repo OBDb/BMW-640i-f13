@@ -1,5 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/BMW_6_Series"
+
 generations:
-  - name: "Second Generation 6 Series (F12/F13/F06)"
+  - name: "Third Generation 6 Series (F13)"
     start_year: 2011
-    end_year: 2018
-    description: "The BMW 640i F13 was the coupe variant of the second-generation 6 Series, with the F13 designation specifically denoting the two-door coupe body style (F12 was convertible, F06 was Gran Coupe). The 640i featured a 3.0L turbocharged inline-six engine (N55) producing 315-320 HP depending on the market, paired with an eight-speed automatic transmission. Performance was impressive with 0-60 mph acceleration in approximately 5.3 seconds. The F13 6 Series featured flowing, elegant styling with classic proportions and luxury grand touring characteristics. The interior offered premium materials, advanced technology including iDrive infotainment, and a driver-focused cockpit design. The 640i was positioned as a more efficient yet still powerful alternative to the V8-powered 650i model, combining strong performance with reasonable fuel economy for its class. Available with optional xDrive all-wheel drive in some markets, the 640i F13 represented BMW's approach to the luxury GT coupe segment, emphasizing long-distance comfort, style, and performance."
+    end_year: 2014
+    description: "The BMW 640i F13 was the coupe variant of the third-generation 6 Series (2011-2018), with the F13 designation specifically denoting the two-door coupe body style (F12 was convertible, F06 was Gran Coupe). The 640i featured a 3.0L turbocharged inline-six engine (N55) producing 315-320 HP depending on the market, paired with an eight-speed automatic transmission. Performance was impressive with 0-60 mph acceleration in approximately 5.3 seconds. The pre-facelift F13 6 Series (2011-2014) featured flowing, elegant styling with classic proportions and luxury grand touring characteristics. The interior offered premium materials, advanced technology including iDrive infotainment, and a driver-focused cockpit design. The 640i was positioned as a more efficient yet still powerful alternative to the V8-powered 650i model, combining strong performance with reasonable fuel economy for its class. Available with optional xDrive all-wheel drive in some markets, the 640i F13 represented BMW's approach to the luxury GT coupe segment, emphasizing long-distance comfort, style, and performance."
+  - name: "Third Generation 6 Series (F13) 2015 Facelift"
+    start_year: 2015
+    end_year: 2017
+    description: "In 2015, the BMW 640i F13 underwent a facelift, featuring design changes and minor performance and fuel economy improvements. The post-facelift F13 (2015-2017) maintained the 3.0L turbocharged inline-six engine but benefited from updated styling with revised headlights, grille, and bumpers. The refreshed interior incorporated updated infotainment and trim elements. The coupé model ended production in February 2017, making the post-facelift period relatively short but significant for its visual and technical updates."
